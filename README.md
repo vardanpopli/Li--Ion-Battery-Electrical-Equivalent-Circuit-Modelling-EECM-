@@ -1,4 +1,4 @@
 # Li--Ion-Battery-Electrical-Equivalent-Circuit-Modelling-EECM-
 Optimization of the Battery Pack for Electrical Vehicles using ***EECM***. 
-- For a detailed Overview, please check My Mid-Project Report.
+- For a detailed Overview, please check My [Mid-Project Report](https://github.com/vardanpopli/Li--Ion-Battery-Electrical-Equivalent-Circuit-Modelling-EECM-/blob/main/Mid-Project%20Report.pdf).
 

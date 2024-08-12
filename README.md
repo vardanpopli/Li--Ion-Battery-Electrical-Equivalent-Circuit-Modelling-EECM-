@@ -6,3 +6,5 @@ Optimization of the Battery Pack for Electrical Vehicles using ***EECM***.
 
 # Single Cell Model
 ![Single Cell Model](https://github.com/vardanpopli/Li--Ion-Battery-Electrical-Equivalent-Circuit-Modelling-EECM-/blob/main/Images%20of%20the%20Model/Single%20Cell%20Model.png)
+# Battery Pack Model
+![Battery Pack Model](https://github.com/vardanpopli/Li--Ion-Battery-Electrical-Equivalent-Circuit-Modelling-EECM-/blob/main/Images%20of%20the%20Model/EV_battary_pack_model.png)
